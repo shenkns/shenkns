@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm game developer, with 5 years of experience in UE4/5.<br>
-
+👋Hey!<br><br>
+👨‍💻I'm fullstack game developer, with 5 years of experience in UE4/5: strong in multiplayer, huge experience with mobile games, orderly code.<br>
+📱I prefer mobile and multiplayer original games.<br><br>
+💸Ready for cooperation, DM me!<br>
+[Telegram](https://t.me/shenkns)
 
 # 💻 Tech Stack:
 
